@@ -10,6 +10,6 @@ Completed user stories:
 
 Walk through of user stories:
 
-SimpleToDoDemo1.gif
+![Video Walkthrough](SimpleToDoDemo1.gif)
 
-GIF created with LiceCap.
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
